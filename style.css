@@ -1,0 +1,25 @@
+#bq{
+    font-weight: bold;
+    font-size: 60px;
+}
+
+#label{
+    font-weight: bold;
+    font-size: 30px;
+}
+
+#confidence{
+    font-weight: bold;
+    font-size: 30px;
+}
+
+#score{
+margin-right: 1200px;
+}
+
+#timer{
+margin-left: 1200px;
+}
+
+
+
